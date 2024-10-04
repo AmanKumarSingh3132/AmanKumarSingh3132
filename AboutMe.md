@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AmanKumarSingh3132
+- 👀 I’m interested in C++ coding and Web Development
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me amankumarsingh31032002@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to play FPS games
