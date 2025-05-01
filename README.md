@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Aman 👋</h1>
-<h3 align="center">MERN Full Stack Developer | Deep Learning enthusiast | Exploring DevOps </h3>
+<h3 align="center">Front End Developer | Deep Learning enthusiast | Exploring DevOps </h3>
 
 ### Connect With Me
 [<img align="left" alt="Aman Kumar Singh | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
